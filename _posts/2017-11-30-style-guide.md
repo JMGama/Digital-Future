@@ -4,7 +4,7 @@ cover: 'assets/images/shiva.jpg'
 title: How to give Style
 date: 2018-1-30 04:00:00
 tags: guide
-author: Author
+author: Jose Manuel Gama
 ---
 
 <p>This shows how you can use html styling to achieve your hopes.</p>
