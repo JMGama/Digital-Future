@@ -1,8 +1,8 @@
 ---
 layout: post
 cover: 'assets/images/shiva.jpg'
-title: Style Guide
-date: 2017-11-30 04:00:00
+title: How to give Style
+date: 2018-1-30 04:00:00
 tags: guide
 author: Author
 ---
@@ -197,7 +197,7 @@ SUBMIT
     <label for="ip13" class="absolute top-0 right-0 bottom-0 left-0" aria-hidden="true">Write your story</label>
   </div>
 </div>
-    
+
 <div class="flex flex-column items-center">
   <label class="www-example-label bold mb3">Disabled Textarea</label>
   <div class="ampstart-input inline-block relative m0 p0 mb3 ">

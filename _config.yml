@@ -1,17 +1,18 @@
 # Site settings
-title: Digital Future
+title: Digital-Future
+second-title: Digital <img src="assets/images/rocket.png" height="70" width="70"/> Future
 description: Welcome to the community
-cover: assets/images/space.jpg
-logo: assets/images/logo.png
-favicon: assets/images/favicon.png
-baseurl:  /Digital-Future # the subpath of your site, e.g. /blog/ or / for root
+cover: /assets/images/space.jpg
+logo: /assets/images/logo.png
+favicon: /assets/images/favicon.png
+baseurl:  /Digital-Future/ # the subpath of your site, e.g. /blog/ or / for root
 url: https://jmgama.github.io/ # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 # Social
-facebook: facebook
-twitter: twitter
-github:  github
+facebook: groups/123357221775391/
+twitter: jmgamest
+github:  JMGama
 
 #Additional Pages
 about: about

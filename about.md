@@ -30,3 +30,5 @@ dolor sit amet, consectetur adipiscing elit. Aenean aliquam massa a est porta
  vehicula. Cras eu gravida massa. Integer non sem ac mi ultrices posuere a
  pretium tortor. Mauris vitae varius sem. Praesent faucibus nec felis et dictum.
  Vestibulum lorem velit, laoreet nec vestibulum in, varius nec enim.
+
+Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> and <a href="https://www.flaticon.com/authors/dinosoftlabs" title="DinosoftLabs">DinosoftLabs</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a> 
