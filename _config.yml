@@ -4,8 +4,8 @@ description: Welcome to the community
 cover: assets/images/space.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
-baseurl:  # the subpath of your site, e.g. /blog/ or / for root
-url:  # the base hostname & protocol for your site
+baseurl:  /Digital-Future # the subpath of your site, e.g. /blog/ or / for root
+url: https://jmgama.github.io/ # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 # Social
