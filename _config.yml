@@ -10,14 +10,14 @@ url: https://jmgama.github.io/ # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 # Social
-facebook: groups/123357221775391/
+facebook: DigitalFuturePage
 twitter: jmgamest
 github:  JMGama
 
 #Additional Pages
 about: about
-contact: contact
-privacy-policy: privacy-policy
+#contact: contact
+#privacy-policy: privacy-policy
 
 
 permalink: /:title
