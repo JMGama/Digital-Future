@@ -11,13 +11,13 @@ permalink: /about/
 
 # ¿Quienes somos?
 
-Somos una comunidad que nace con el proposito de reunir jovenes interesados en la tecnologia y diseño, que esten **dispuestos** a mantener un constante aprendizaje y no se dan por satisfechos con lo que aprenden en su universidad.
+Somos una comunidad que nace con el propósito de reunir jóvenes interesados en la tecnología y diseño, que estén **dispuestos** a mantener un constante aprendizaje y no se dan por satisfechos con lo que aprenden en su universidad.
 
 --------------------------------------------------------------------------------
 
-# ¿Que hacemos?
+# ¿Qué hacemos?
 
-En la comunidad realizamos multiples actividades con el propositode **entusiasmar** y **enseñar** a los estudiantes a que nunca dejen de aprender 📚, esto lo hacemos enseñando nuevas y modernas tecnologias, las cuales no son comunmente vistas en la universidad pero son realmente **utiles** e **importantes**.
+En la comunidad realizamos múltiples actividades con el propósito de **entusiasmar** y **enseñar** a los estudiantes a que nunca dejen de aprender :books:, esto lo hacemos enseñando nuevas y modernas tecnologías, las cuales no son comúnmente vistas en la universidad pero son realmente **útiles** e **importantes**.
 
 --------------------------------------------------------------------------------
 
@@ -25,9 +25,9 @@ En la comunidad realizamos multiples actividades con el propositode **entusiasma
 
 Estas son algunas de las actividades que se realizan como comunidad.<br><br>
 
-- Workshops. 🛠️
-- Cursos. 📝
-- Platicas. 💬
-- Hackathones. 🧙‍♂️
-- Meetups. 🤝
-- Webinars (seminarios en linea). 💻
+- Workshops. :wrench:
+- Cursos. :bookmark:
+- Platicas. :speech_balloon:
+- Hackathones. :trident:
+- Meetups. :family:
+- Webinars (seminarios en linea). :computer:
