@@ -2,15 +2,12 @@ Jose Manuel Gama:
   username: JMGama
   name: Jose Manuel Gama
   location: México
-  url_full: https://twitter.com/jmgamest
-  url: twitter.com/jmgamest
-  bio: Hello everyone!
+  url_full: null
+  url: null
+  bio: Maybe zombies are just people with no coffee ☕
   assets: assets/users/jmgama.jpg
-Gianfranco Mangiacasale:
-  username: Gianfmg
-  name: Gianfranco Mangiacasale
-  location: México
-  url_full: https://twitter.com/gianfmg
-  url: twitter.com/gianfmg
-  bio: Hi Guys!
-  assets: assets/users/gianfmg.jpg
+  email: josegamaes@gmail.com
+  twitter: jmgamest
+  facebook: DigitalFuturePage
+  linkedin: jmgamest
+  github: JMGama
