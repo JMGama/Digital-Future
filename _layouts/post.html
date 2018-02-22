@@ -44,13 +44,18 @@ layout: default
 
       </div>
 
-      <div class="mb4 px3 radhakrishna" align="left">
-		    <amp-social-share type="facebook" width="45" height="33" data-param-app_id="145393166088568"></amp-social-share>
-		    <amp-social-share type="twitter" width="45" height="33"></amp-social-share>
-		    <amp-social-share type="whatsapp" width="45" height="33"></amp-social-share>
-		    <amp-social-share type="gplus" width="45" height="33"></amp-social-share>
-		    <amp-social-share width="45" height="33" type="email"></amp-social-share>
-	    </div>
+      {% for author in site.data.authors %}
+        {% if author[1].name == page.author %}
+        <div class="mb4 px3 radhakrishna" align="left">
+          <amp-social-share type="facebook" width="45" height="33" data-param-app_id="145393166088568" data-param-text=" Mira este increíble post por @{{ author[1].twitter }} en Digital-Future acerca de '{{ page.title }}' "></amp-social-share>
+          <amp-social-share type="twitter" width="45" height="33" data-param-text=" Mira este increíble post por @{{ author[1].twitter }} en Digital-Future acerca de '{{ page.title }}' "></amp-social-share>
+          <amp-social-share type="linkedin" width="45" height="33" data-param-text=" Mira este increíble post por @{{ author[1].twitter }} en Digital-Future acerca de '{{ page.title }}' "></amp-social-share>
+          <amp-social-share type="whatsapp" width="45" height="33" data-param-text=" Mira este increíble post por @{{ author[1].twitter }} en Digital-Future acerca de '{{ page.title }}' "></amp-social-share>
+          <amp-social-share type="gplus" width="45" height="33" data-param-text=" Mira este increíble post por @{{ author[1].twitter }} en Digital-Future acerca de '{{ page.title }}' "></amp-social-share>
+          <amp-social-share width="45" height="33" type="email" data-param-text=" Mira este increíble post por @{{ author[1].twitter }} en Digital-Future acerca de '{{ page.title }}' "></amp-social-share>
+        </div>
+      {% endif %}
+      {% endfor %}
 
   {% else %}
 
@@ -201,12 +206,12 @@ layout: default
 {% for author in site.data.authors %}
   {% if author[1].name == page.author %}
   <div class="mb4 px3 radhakrishna" align="left">
-    <amp-social-share type="facebook" width="45" height="33" data-param-app_id="145393166088568" data-param-text=" Look this amazing post by @{{ author[1].twitter }} on Digital-Future "></amp-social-share>
-    <amp-social-share type="twitter" width="45" height="33" data-param-text=" Look this amazing post by @{{ author[1].twitter }} on Digital-Future "></amp-social-share>
-    <amp-social-share type="linkedin" width="45" height="33" data-param-text=" Look this amazing post by @{{ author[1].twitter }} on Digital-Future "></amp-social-share>
-    <amp-social-share type="whatsapp" width="45" height="33" data-param-text=" Look this amazing post by @{{ author[1].twitter }} on Digital-Future "></amp-social-share>
-    <amp-social-share type="gplus" width="45" height="33" data-param-text=" Look this amazing post by @{{ author[1].twitter }} on Digital-Future "></amp-social-share>
-    <amp-social-share width="45" height="33" type="email" data-param-text=" Look this amazing post by @{{ author[1].twitter }} on Digital-Future "></amp-social-share>
+    <amp-social-share type="facebook" width="45" height="33" data-param-app_id="145393166088568" data-param-text=" Mira este increíble post por @{{ author[1].twitter }} en Digital-Future acerca de '{{ page.title }}' "></amp-social-share>
+    <amp-social-share type="twitter" width="45" height="33" data-param-text=" Mira este increíble post por @{{ author[1].twitter }} en Digital-Future acerca de '{{ page.title }}' "></amp-social-share>
+    <amp-social-share type="linkedin" width="45" height="33" data-param-text=" Mira este increíble post por @{{ author[1].twitter }} en Digital-Future acerca de '{{ page.title }}' "></amp-social-share>
+    <amp-social-share type="whatsapp" width="45" height="33" data-param-text=" Mira este increíble post por @{{ author[1].twitter }} en Digital-Future acerca de '{{ page.title }}' "></amp-social-share>
+    <amp-social-share type="gplus" width="45" height="33" data-param-text=" Mira este increíble post por @{{ author[1].twitter }} en Digital-Future acerca de '{{ page.title }}' "></amp-social-share>
+    <amp-social-share width="45" height="33" type="email" data-param-text=" Mira este increíble post por @{{ author[1].twitter }} en Digital-Future acerca de '{{ page.title }}' "></amp-social-share>
   </div>
 {% endif %}
 {% endfor %}
