@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: assets/post/2018-02-23-Google_anuncia_ARCore1.0.md/cover.png
+cover: assets/posts/2018-02-23-Google_anuncia_ARCore1.0/cover.png
 title: Google Anuncia ARCore 1.0 y Google Lens
 date: 2018-02-23T13:09:00.000Z
 tags: Google VR AR
@@ -53,7 +53,7 @@ Google se asoció con algunas compañías para poder hacer una demostración de 
 - **NetEase:** increíbles juegos con realidad aumentada.
 
 <figure class="ampstart-image-with-heading  m0 relative mb4">
-  <amp-img src="{{ site.baseurl }}assets/post/2018-02-23-Google_anuncia_ARCore1.0.md/snapchat.png" width="656" height="400" layout="responsive" alt="" class="mb3">
+  <amp-img src="{{ site.baseurl }}assets/posts/2018-02-23-Google_anuncia_ARCore1.0/snapchat.png" width="656" height="400" layout="responsive" alt="" class="mb3">
 </amp-img>
   <figcaption class="absolute right-0 bottom-0 left-0">
   <header class="ampstart-image-heading px2 py2 line-height-4">
@@ -63,7 +63,7 @@ Google se asoció con algunas compañías para poder hacer una demostración de 
 </figure>
 
 <figure class="ampstart-image-with-heading  m0 relative mb4">
-  <amp-img src="{{ site.baseurl }}assets/post/2018-02-23-Google_anuncia_ARCore1.0.md/porschear.png" width="656" height="400" layout="responsive" alt="" class="mb3">
+  <amp-img src="{{ site.baseurl }}assets/posts/2018-02-23-Google_anuncia_ARCore1.0/porschear.png" width="656" height="400" layout="responsive" alt="" class="mb3">
 </amp-img>
   <figcaption class="absolute right-0 bottom-0 left-0">
   <header class="ampstart-image-heading px2 py2 line-height-4">
